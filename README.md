@@ -1,16 +1,7 @@
-# quizz
+# quizz Bien etre
 
-A new Flutter application.
+Après être tombé sur la vidéo d'un youTubeur qui parlait de mesurer son bonheur grâce a questionnaire qu'on se poserait une fois par jour de façon aléatoire, j'ai décidé d'en faire un application qui s'ouvre aléatoirement une fois dans la journée.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Prochaine étape : 
+- Un peu de design
+- Mettre les données sur un BD pour suivre une progression sur le long terme :)
